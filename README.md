@@ -12,7 +12,7 @@ This research aims to provide an innovative tool to the Colombian judiciary that
 In the Colombian Judicial branch, this field known as Legal Tech has been approached recently, meaning there is much room for research. In addition, the solution we propose is not only attractive to the Constitutional Court, citizens or jurisprudence’s users, but it has the potential of applicability in different legal organizations to present efficient and effective actions for protecting rights using the appropriate jurisprudential line
 
 ## Link
-The document can be consulted in the following link: [Thesis Project](https://www.overleaf.com/project/63541573cb446c8f32337be8).
+The document can be consulted in the following link: [Thesis Project](https://es.overleaf.com/1326268636wfdddrsxnmhs).
 
 ## Directory explanation
 
