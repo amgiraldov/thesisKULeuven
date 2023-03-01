@@ -4,7 +4,7 @@
 
 ***Authors:*** Ana Maria Giraldo Vargas, Sonia Rocio Socadagui Casas @[soniasocadagui](https://github.com/soniasocadagui).
 
-***Supervisor:*** Prof. dr. Seppe vanden Broucke [profile](http://www.seppe.net/), assistant professor at the department of Business Informatics at UGent (Belgium) and is a lecturer at KU Leuven (Belgium).
+***Supervisor:*** Prof. dr. Seppe vanden Broucke ([profile](http://www.seppe.net/)), assistant professor at the department of Business Informatics at UGent (Belgium) and is a lecturer at KU Leuven (Belgium).
 
 ## Description
 This research aims to provide an innovative tool to the Colombian judiciary that supports ontological searches of jurisprudence using machine learning techniques to increase, on the one hand, the efficiency of solving legal issues and, on the other hand, to produce effective and fair rule decisions. Hence, this project would supply a measure of similarity between court documents taking into account the meaning of the topics, allowing the identification of texts that deal with the same subject matter to facilitate the construction of jurisprudential lines.
