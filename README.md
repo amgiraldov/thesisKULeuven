@@ -2,7 +2,7 @@
 
 # Thesis Project: Ontological search application in the Colombian Constitutional Court Jurisprudence
 
-***Authors:*** Ana Maria Giraldo Vargas, Sonia Rocio Socadagui Casas @[soniasocadagui](https://github.com/soniasocadagui).
+***Authors:*** Ana Maria Giraldo Vargas @[amgiraldov](https://github.com/amgiraldov), Sonia Rocio Socadagui Casas @[soniasocadagui](https://github.com/soniasocadagui).
 
 ***Supervisor:*** Prof. dr. Seppe vanden Broucke ([profile](http://www.seppe.net/)), assistant professor at the department of Business Informatics at UGent (Belgium) and lecturer at KU Leuven (Belgium).
 
