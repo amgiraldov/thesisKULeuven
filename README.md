@@ -43,3 +43,15 @@ Thesis Project
 ```
 git clone -b main https://github.com/amgiraldov/thesisKULeuven.git
 ```
+2. Create a new virtual environment with Python 3.8.15 version.
+```
+pyenv virtualenv 3.8.15 <name>
+```
+3. Activate the environment.
+```
+pyenv activate <name>
+```
+4. Install the `requirements.txt` file into the virtual environment.
+```
+pip install -r requirements.txt
+```
