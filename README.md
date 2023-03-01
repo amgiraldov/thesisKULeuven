@@ -41,5 +41,5 @@ Thesis Project
 
 1. Clone the repository.
 ```
-git clone -b main [https://github.com/soniasocadagui/mdaheatwaves.git](https://github.com/amgiraldov/thesisKULeuven.git)
+git clone -b main https://github.com/amgiraldov/thesisKULeuven.git
 ```
