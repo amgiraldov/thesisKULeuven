@@ -22,6 +22,8 @@ Thesis Project
 │   ├── 00_PreparingData.ipynb
 │   ├── 01_EDA.ipynb
 │   └── 02_ExtractJurisprudence.ipynb
+│   ├── 03_PreprocessingText.ipynb
+│   └── 04_Citation_standard.ipynb
 ├── data: Contains the datasets downloaded to develop the project
 │   ├── ...
 │   ├── ...
